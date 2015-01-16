@@ -33,6 +33,12 @@ For Social Share Text
 
 3. Add ShortCode from post editor visual bar.
 
+<strong><a href="http://hamidulbd.com/plugin/wp-popup-social-plugin/" >CLICK HERE FOR DEMO<a></strong>
+
+
+== Frequently Asked Questions ==
+if You have any Question Please Ask here <strong><a href="http://hamidulbd.com/plugin/wp-popup-social-plugin/" >ASK QUESTION<a></strong>
+
 == Screenshots ==
 
 1. Demo on site.
