@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
  WP Popup Social Link and Content Share is Awesome Social Share Plugin .
 
 == Description ==
-<h1><a href="http://hamidulbd.com/plugin/wp-popup-social-plugin/"> CLICK HERE FOR DEMO<a></h1>
+<h1><strong><a href="http://hamidulbd.com/plugin/wp-popup-social-plugin/">CLICK HERE FOR DEMO<a></strong></h1>
 
  WP Popup Social Link and Content Share is Awesome Social Share Plugin . You can Add Awesome Social Profile Popup Link. It's too easy to use with ShortCode . You can setting with  ShortCode . 
 
@@ -22,7 +22,7 @@ For Social Profile Link
 For Social Share Text
 <pre>[socialtext animation="launchpad" chainAnimationSpeed="100" social_site="facebook,twitter,google,pinterest,stumbleupon,delicious,friendfeed,digg,linkedin,reddit,yahoo,windows,tumblr,myspace,blogger"]</pre>
 
-<h1><a href="http://hamidulbd.com/plugin/wp-popup-social-plugin/" > CLICK HERE FOR DEMO<a></h1>
+<h1><strong><a href="http://hamidulbd.com/plugin/wp-popup-social-plugin/" >CLICK HERE FOR DEMO<a></strong></h1>
 
 
 == Installation ==
@@ -35,7 +35,11 @@ For Social Share Text
 
 == Screenshots ==
 
+1. Demo on site.
 
+2. Shortcode on Post Editor.
+
+3. Shortcode Editor on post editor.
 
 
 == Changelog ==
